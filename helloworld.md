@@ -2,14 +2,17 @@
 title: "HelloWorld"
 author: "Aliyya Fathima Rinu"
 date: "19/08/2020"
-output: 
-  word_document: 
+output:
+  html_document:
+    df_print: paged
+  word_document:
     keep_md: yes
 ---
 
 
 
 ## R Markdown
+## this is a markdown file.
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
